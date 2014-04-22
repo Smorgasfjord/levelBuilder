@@ -1,0 +1,406 @@
+TlevelBuilder
+v6
+r1
+cCheck dependencies
+cCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/Airplane.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/GLSL_helper.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/CMeshLoaderSimple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000529BE98A000000000000044C
+t1385949578
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FA4DB00000000000001DE
+t1394582747
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FA4DD0000000000000ADC
+t1394582749
+s2780
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp
+c00000000534CD86C0000000000000EB5
+t1397545068
+s3765
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp
+c00000000534B27170000000000002DBC
+t1397434135
+s11708
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp
+c0000000052FBEF7D0000000000000E0B
+t1392242557
+s3595
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o
+t2
+s0
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o
+t2
+s0
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o
+t2
+s0
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp
+c00000000534DB500000000000000522F
+t1397601536
+s21039
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/Airplane.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/CMeshLoaderSimple.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/GLSL_helper.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/main.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/Airplane.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/CMeshLoaderSimple.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/GLSL_helper.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/levelBuilder/main.cpp
+r0
+
+CBuild AST from /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7e55d6a5ecfdb841^feeedda5ecfdb841^---0#1#1#--18"Check dependencies36"3DA9B51B-9312-4BF2-A00C-5B64ECB52734-
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/Airplane.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/Airplane.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419294373.867569
+e419294376.339244
+r1
+xCompileC
+xbuild/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o
+x/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.h
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.h
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_fixes.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/setup.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_detail.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_float.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_int.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_gentype.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_size.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec1.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_swizzle.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_swizzle_func.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec1.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_trigonometric.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_trigonometric.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_vectorize.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_exponential.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_exponential.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_common.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_common.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_packing.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_packing.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_geometric.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_geometric.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_matrix.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_matrix.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_vector_relational.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_vector_relational.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_noise.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_noise.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLHandles.h
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/matrix_transform.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/matrix_transform.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/type_ptr.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/half_float.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/half_float.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/quaternion.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/quaternion.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/gtc/type_ptr.inl
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp:16:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.hpp:12:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:138:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int s =  (i >> 16) & 0x00008000;
+o                ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:139:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int e = ((i >> 23) & 0x000000ff) - (127 - 15);
+o                ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:140:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int m =   i        & 0x007fffff;
+o                ^~~~~~~~~
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp:16:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.hpp:12:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                                                                                   ^
+o                                                                  (                                                                        )
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp:40:38: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+o           (t1.tv_usec - t2.tv_usec))/1000;
+o           ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp166"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o Airplane.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler9d80dea5ecfdb841^828f59a8ecfdb841^-3545"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp:16:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.hpp:12:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:138:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int s =  (i >> 16) & 0x00008000;                ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:139:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int e = ((i >> 23) & 0x000000ff) - (127 - 15);                ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:140:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int m =   i        & 0x007fffff;                ^~~~~~~~~In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp:16:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.hpp:12:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                                                                                   ^                                                                  (                                                                        )/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/Airplane.cpp:40:38: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]           (t1.tv_usec - t2.tv_usec))/1000;           ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~5 warnings generated.-0#0#1#-19%DVTDocumentLocation2@103"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/Airplane.cpp0000000000000000^3458"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o Airplane.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/twoods0129/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-generated-files.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-own-target-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-all-target-headers.hmap -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-project-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include/GLFW -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources/x86_64 -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources -F/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug -MMD -MT dependencies -MF /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.d --serialize-diagnostics /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.dia -c /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/Airplane.cpp -o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/Airplane.o36"AADB602D-3E3F-41CB-8513-06A831312D6C-
+b22D64138-1175-4643-8927-6091814F2146
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/CMeshLoaderSimple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/CMeshLoaderSimple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419294373.871084
+e419294376.539512
+r1
+xCompileC
+xbuild/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o
+x/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.h
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_fixes.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/setup.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_detail.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_float.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_int.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_gentype.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_size.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec1.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_swizzle.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_swizzle_func.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec1.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_vec4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat2x4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat3x4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x2.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x2.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x3.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x3.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x4.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_mat4x4.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_trigonometric.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_trigonometric.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/_vectorize.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_exponential.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_exponential.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_common.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_common.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_packing.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_packing.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_geometric.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_geometric.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_matrix.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_matrix.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_vector_relational.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_vector_relational.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_noise.hpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_noise.inl
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp:11:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:138:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int s =  (i >> 16) & 0x00008000;
+o                ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:139:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int e = ((i >> 23) & 0x000000ff) - (127 - 15);
+o                ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:140:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int m =   i        & 0x007fffff;
+o                ^~~~~~~~~
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp:11:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                                                                                   ^
+o                                                                  (                                                                        )
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp:360:20: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o   TriangleCount = Mesh.Triangles.size();
+o                 ~ ^~~~~~~~~~~~~~~~~~~~~
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp184"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o CMeshLoaderSimple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3062dfa5ecfdb841^2d228aa8ecfdb841^-3124"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp:11:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:138:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int s =  (i >> 16) & 0x00008000;                ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:139:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int e = ((i >> 23) & 0x000000ff) - (127 - 15);                ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:140:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int m =   i        & 0x007fffff;                ^~~~~~~~~In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp:11:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                                                                                   ^                                                                  (                                                                        )/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/CMeshLoaderSimple.cpp:360:20: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]   TriangleCount = Mesh.Triangles.size();                 ~ ^~~~~~~~~~~~~~~~~~~~~5 warnings generated.-0#0#1#-19%DVTDocumentLocation2@112"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/CMeshLoaderSimple.cpp0000000000000000^3512"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o CMeshLoaderSimple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/twoods0129/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-generated-files.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-own-target-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-all-target-headers.hmap -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-project-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include/GLFW -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources/x86_64 -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources -F/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug -MMD -MT dependencies -MF /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.d --serialize-diagnostics /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.dia -c /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/CMeshLoaderSimple.cpp -o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/CMeshLoaderSimple.o36"749EF3DC-4452-495A-8EA9-C78822F73EDF-
+b22D64138-1175-4643-8927-6091814F2146
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/GLSL_helper.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/GLSL_helper.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419294373.867778
+e419294375.912052
+r1
+xCompileC
+xbuild/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o
+x/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp
+d/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.h
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:19:61: warning: 'gluErrorString' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o                printf ("glError in file %s @ line %d: %s\n", file, line, gluErrorString (glErr));
+o                                                                          ^
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:10:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.h:11:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:61:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:260:24: note: 'gluErrorString' declared here
+oextern const GLubyte * gluErrorString (GLenum error) OPENGL_DEPRECATED(10_0, 10_9);
+o                       ^
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:129:12: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+o                        count = ftell(fp);
+o                              ~ ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:134:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o                                count = fread(content,sizeof(char),count,fp);
+o                                      ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp172"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o GLSL_helper.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilere142dea5ecfdb841^d098e9a7ecfdb841^-1776"/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:19:61: warning: 'gluErrorString' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]                printf ("glError in file %s @ line %d: %s\n", file, line, gluErrorString (glErr));                                                                          ^In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:10:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.h:11:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:61:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:260:24: note: 'gluErrorString' declared hereextern const GLubyte * gluErrorString (GLenum error) OPENGL_DEPRECATED(10_0, 10_9);                       ^/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:129:12: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]                        count = ftell(fp);                              ~ ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GLSL_helper.cpp:134:13: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]                                count = fread(content,sizeof(char),count,fp);                                      ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@61"'gluErrorString' is deprecated: first deprecated in OS X 10.9-419294375#18446744073709551615#0#1(2@30"'gluErrorString' declared here-419294375#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^259#23#259#23#13628#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^18#60#18#60#469#0#12"Deprecations--2@60"Implicit conversion loses integer precision: 'long' to 'int'-419294375#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^128#11#128#11#3111#0#22"Value Conversion Issue2(3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^128#11#128#20#3111#8#3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^128#9#128#10#3109#0#-2@84"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int'-419294375#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^133#12#133#12#3229#0#22"Value Conversion Issue2(3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^133#12#133#48#3229#35#3@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^133#10#133#11#3227#0#-0#0#1#-19%DVTDocumentLocation4@106"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GLSL_helper.cpp0000000000000000^3476"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o GLSL_helper.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/twoods0129/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-generated-files.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-own-target-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-all-target-headers.hmap -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-project-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include/GLFW -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources/x86_64 -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources -F/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug -MMD -MT dependencies -MF /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.d --serialize-diagnostics /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.dia -c /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/GLSL_helper.cpp -o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/GLSL_helper.o36"D77636D4-2310-408F-A2C0-DB2CAD023E74-
+b22D64138-1175-4643-8927-6091814F2146
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/476_Lab1/476_Lab1/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/levelBuilder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419294373.870404
+e419294376.137318
+r0
+xCompileC
+xbuild/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o
+x/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:138:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int s =  (i >> 16) & 0x00008000;
+o                ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:139:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int e = ((i >> 23) & 0x000000ff) - (127 - 15);
+o                ^~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:140:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]
+o                register int m =   i        & 0x007fffff;
+o                ^~~~~~~~~
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:
+oIn file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning
+o                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));
+o                                                                                                                   ^
+o                                                                  (                                                                        )
+o/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:22:10: fatal error: 'Text.h' file not found
+o#include "Text.h"
+o         ^
+o4 warnings and 1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp158"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerbdfcdea5ecfdb841^728b59a8ecfdb841^-3199"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:138:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int s =  (i >> 16) & 0x00008000;                ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:139:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int e = ((i >> 23) & 0x000000ff) - (127 - 15);                ^~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.inl:140:3: warning: 'register' storage class specifier is deprecated [-Wdeprecated-register]                register int m =   i        & 0x007fffff;                ^~~~~~~~~In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: warning: operator '<<' has lower precedence than '-'; '-' will be evaluated first [-Wshift-op-parentheses]                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                               ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/func_integer.inl:107:95: note: place parentheses around the '-' expression to silence this warning                        return genUType(detail::highp_int_t(1) << detail::highp_int_t(32) + detail::highp_int_t(x) - detail::highp_int_t(y));                                                                                                                   ^                                                                  (                                                                        )/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:22:10: fatal error: 'Text.h' file not found#include "Text.h"         ^4 warnings and 1 error generated.5(36%IDEClangDiagnosticActivityLogMessage2@48"'register' storage class specifier is deprecated-419294376#18446744073709551615#0#5(2@112"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@99"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/main.cpp0000000000000000^18#9#18#9#414#0#21"Apple LLVM 5.0 Notice--2@118"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GameObject.hpp0000000000000000^11#9#11#9#182#0#21"Apple LLVM 5.0 Notice--2@115"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@102"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/glm.hpp0000000000000000^96#9#96#9#4138#0#21"Apple LLVM 5.0 Notice--2@123"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type.hpp0000000000000000^31#9#31#9#1562#0#21"Apple LLVM 5.0 Notice--2@127"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.hpp0000000000000000^116#9#116#9#3452#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.inl0000000000000000^137#2#137#2#3636#0#12"Deprecations1(3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.inl0000000000000000^137#2#137#11#3636#9#-2@48"'register' storage class specifier is deprecated-419294376#18446744073709551615#0#5(2@112"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/main.cpp0000000000000000^18#9#18#9#414#0#21"Apple LLVM 5.0 Notice--2@118"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GameObject.hpp0000000000000000^11#9#11#9#182#0#21"Apple LLVM 5.0 Notice--2@115"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@102"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/glm.hpp0000000000000000^96#9#96#9#4138#0#21"Apple LLVM 5.0 Notice--2@123"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type.hpp0000000000000000^31#9#31#9#1562#0#21"Apple LLVM 5.0 Notice--2@127"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.hpp0000000000000000^116#9#116#9#3452#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.inl0000000000000000^138#2#138#2#3681#0#12"Deprecations1(3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.inl0000000000000000^138#2#138#11#3681#9#-2@48"'register' storage class specifier is deprecated-419294376#18446744073709551615#0#5(2@112"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/main.cpp0000000000000000^18#9#18#9#414#0#21"Apple LLVM 5.0 Notice--2@118"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GameObject.hpp0000000000000000^11#9#11#9#182#0#21"Apple LLVM 5.0 Notice--2@115"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:97:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@102"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/glm.hpp0000000000000000^96#9#96#9#4138#0#21"Apple LLVM 5.0 Notice--2@123"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/type.hpp:32:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type.hpp0000000000000000^31#9#31#9#1562#0#21"Apple LLVM 5.0 Notice--2@127"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/core/type_half.hpp:117:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.hpp0000000000000000^116#9#116#9#3452#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.inl0000000000000000^139#2#139#2#3740#0#12"Deprecations1(3@113"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/type_half.inl0000000000000000^139#2#139#11#3740#9#-2@72"Operator '<<' has lower precedence than '-'; '-' will be evaluated first-419294376#18446744073709551615#0#5(2@112"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/main.cpp:19:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/main.cpp0000000000000000^18#9#18#9#414#0#21"Apple LLVM 5.0 Notice--2@118"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/GameObject.hpp:12:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/GameObject.hpp0000000000000000^11#9#11#9#182#0#21"Apple LLVM 5.0 Notice--2@116"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/glm.hpp:106:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@102"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/glm.hpp0000000000000000^105#9#105#9#4440#0#21"Apple LLVM 5.0 Notice--2@132"In file included from /Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder/glm/./core/func_integer.hpp:198:-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.hpp0000000000000000^197#9#197#9#9736#0#21"Apple LLVM 5.0 Notice--2@67"Place parentheses around the '-' expression to silence this warning-419294376#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.inl0000000000000000^106#94#106#94#3471#0#14"Semantic Issue2(3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.inl0000000000000000^106#45#106#45#3422#0#3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.inl0000000000000000^106#118#106#118#3495#0#-1#27"com.apple.dt.IDE.diagnostic3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.inl0000000000000000^106#94#106#94#3471#0#14"Semantic Issue2(3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.inl0000000000000000^106#45#106#118#3422#72#3@116"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/glm/core/func_integer.inl0000000000000000^106#42#106#44#3419#0#-2@23"'Text.h' file not found-419294376#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/main.cpp0000000000000000^21#9#21#9#487#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@99"file:///Users/twoods0129/Documents/SkyDrive/2014%20Spring%20Quarter/CPE%20476/levelBuilder/main.cpp0000000000000000^3434"CompileC build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/twoods0129/Documents/SkyDrive/2014 Spring Quarter/CPE 476/levelBuilder"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/twoods0129/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-generated-files.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-own-target-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-all-target-headers.hmap -iquote /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/levelBuilder-project-headers.hmap -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include/GLFW -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources/x86_64 -I/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/DerivedSources -F/Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug -MMD -MT dependencies -MF /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.dia -c /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/main.cpp -o /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/levelBuilder.build/Debug/levelBuilder.build/Objects-normal/x86_64/main.o36"447E30CD-81D3-46A2-997E-DCA064569E2D-
+b22D64138-1175-4643-8927-6091814F2146
+
+CLd /Users/twoods0129/Documents/SkyDrive/2014\ Spring\ Quarter/CPE\ 476/levelBuilder/build/Debug/levelBuilder normal x86_64
+r0
+
