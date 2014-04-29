@@ -46,14 +46,80 @@ void Mountain::SetModel(glm::vec3 loc, glm::vec3 size, float rotation) {
    safe_glUniformMatrix4fv(GameObject::handles.uNormMatrix, glm::value_ptr(glm::vec4(1.0f)));
 }
 
-float Mountain::getZ(float y)
+
+float Mountain::testLeftDiagonal(glm::vec3 pos)
+{
+   //Front left diagonal
+   //center:<30, 15, 30> normal:<1, -1, -.5>
+   float fld = -(1 * 30) - (-1 * 15) - (-.5 * 30);
+   return (1 * pos.x) + (-1 * pos.y) + (-.5 * pos.z) + fld;
+}
+
+float Mountain::testRightDiagonal(glm::vec3 pos)
+{
+   //Front right diagonal
+   //center:<30, 15, 30> normal<-1, -1, -.5>
+   float frd = -(-1 * 30) - (-1 * 15) - (-.5 * 30);
+   return (-1 * pos.x) + (-1 * pos.y) + (-.5 * pos.z) + frd;
+}
+
+//Given a vector position determine the proper x
+float Mountain::getX(glm::vec3 pos)
+{
+   //ax + by + cz + d = 0 -> x = (-by - cz -d) / a
+   //d = - ax0 -by0 - cz0
+   float x;
+   float fl = testLeftDiagonal(pos);
+   float fr = testRightDiagonal(pos);
+   
+   //Right face
+   if(fr > 0 && fl < 0)
+   {
+      //cout << "RIGHT\n";
+      //center:<15, 15, 30> normal<-1, 1, 0>
+      float d = -(-1 * 15) - (1 * 15);
+      x = (-(1 * pos.y) - d) / -1;
+   }
+   //Left face
+   else if(fr < 0 && fl > 0)
+   {
+      //cout << "LEFT\n";
+      //center:<45, 15, 30> normal <1, 1, 0>
+      float d = -(1 * 45) - (1 * 15);
+      x = (-(1 * pos.y) - d) / 1;
+   }
+   else
+      x = pos.x;
+   
+   return x;
+}
+
+//Given a vector position determine the proper z
+float Mountain::getZ(glm::vec3 pos)
 {
    //ax + by + cz + d = 0 -> z = (-ax - by -d) / c
    //d = - ax0 -by0 - cz0
-   //n = <a, b, c> = <0, 1, 1>
-   //center of the plane: <x0, y0, z0> = <30, 30, 15>
-   float d = (-1 * 15) + (1 * 15);
-   float z = ((- 1 * y) - d) / -1;
+   float z;
+   float fl = testLeftDiagonal(pos);
+   float fr = testRightDiagonal(pos);
+   
+   //Front face
+   if(fr > 0 && fl > 0)
+   {
+      //center:<30, 15, 15> normal<0, 1, -1>
+      float d = -(1 * 15) - (-1 * 15);
+      z = (-(1 * pos.y) - d) / -1;
+   }
+   //Back face
+   else if(fr < 0 && fl < 0)
+   {
+      //center:<30, 15, 45> normal:<0, 1, 1>
+      float d = -(1 * 15) - (1 * 45);
+      z = (-(1 * pos.y) - d) / 1;
+   }
+   else
+      z = pos.z;
+   
    return z;
 }
 

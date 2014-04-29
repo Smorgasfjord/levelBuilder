@@ -339,7 +339,7 @@ void setWorld()
    
    //Read in a level if one is available, we probably want to make
    //this a more complex system of loading/saving
-   platforms = importLevel("mountain.lvl");
+   platforms = Platform::importLevel("mountain.lvl", handles, platMod);
 }
 
 /* Set up matrices to place model in the world */
@@ -361,56 +361,17 @@ void setGround(glm::vec3 loc)
    safe_glUniformMatrix4fv(handles.uNormMatrix, glm::value_ptr(glm::mat4(1.0f)));
 }
 
-//Read in a .lvl file of the given name
-vector<Platform> importLevel(std::string const & fileName)
-{
-   vector<Platform> plats;
-   std::ifstream File;
-	File.open(fileName.c_str());
-   
-   if (! File.is_open())
-	{
-		std::cerr << "Unable to open Level file: " << fileName << std::endl;
-	}
-   
-	while (File)
-	{
-		string ReadString;
-      string pos, size, rot;
-      glm::vec3 position, sizeVec;
-      float rotation;
-		getline(File, ReadString);
-		std::stringstream Stream(ReadString);
-      
-      //Platform data
-      if(ReadString.find("Platform:") != std::string::npos)
-      {
-         getline(File, pos);
-         getline(File, size);
-         getline(File, rot);
-         sscanf(pos.c_str(), "\t%f %f %f\n", &(position.x), &(position.y), &(position.z));
-         sscanf(size.c_str(), "\t%f %f %f\n", &(sizeVec.x), &(sizeVec.y), &(sizeVec.z));
-         sscanf(rot.c_str(), "\t%f\n", &rotation);
-         plats.push_back(Platform(position, sizeVec, rotation, handles, platMod));
-      }
-   }
-   File.close();
-   return plats;
-}
-
 //Export the current platform layout to a .lvl file
 void exportLevel()
 {
    string fileName = "mountain.lvl";
    ofstream myfile;
    
-   
    myfile.open (fileName);
    for (std::vector<Platform>::iterator it = platforms.begin(); it != platforms.end(); ++ it) {
       myfile << it->toString();
    }
    myfile.close();
-   
 }
 
 /* Initialize the geometry */
@@ -641,8 +602,6 @@ void mouse(GLFWwindow* window, double x, double y)
    prevMouseLoc = currentPos;
 }
 
-
-
 static void error_callback(int error, const char* description)
 {
    fputs(description, stderr);
@@ -656,11 +615,13 @@ static void mouseClick(GLFWwindow* window, int button, int action, int mods)
       if(button == GLFW_MOUSE_BUTTON_1)
       {
          //NOT FULLY IMPLEMENTED
-         for (std::vector<Platform>::iterator it = platforms.begin(); it != platforms.end(); ++ it) {
+         for (std::vector<Platform>::iterator it = platforms.begin(); it < platforms.end(); ++ it) {
             if(it->detectCollision(lookAtVec))
             {
                placeMode = true;
                placing = *it;
+               platforms.erase(it);
+               //Need to remove from platforms
             }
          }
       }
@@ -677,19 +638,19 @@ static void key_callback(GLFWwindow* window, int key, int scancode, int action, 
          //Arrows control platform
          case GLFW_KEY_UP:
             if(placeMode)
-               placing.setYPos(placing.getPos().y + .05);
+               placing.moveUp();
             break;
          case GLFW_KEY_DOWN:
             if(placeMode)
-               placing.setYPos(placing.getPos().y - .05);
+               placing.moveDown();
             break;
          case GLFW_KEY_LEFT:
             if(placeMode)
-               placing.setXPos(placing.getPos().x + .05);
+               placing.moveLeft();
             break;
          case GLFW_KEY_RIGHT:
             if(placeMode)
-               placing.setXPos(placing.getPos().x - .05);
+               placing.moveRight();
             break;
          //Comma & period tilt platforms
          case GLFW_KEY_COMMA:
@@ -698,7 +659,7 @@ static void key_callback(GLFWwindow* window, int key, int scancode, int action, 
          case GLFW_KEY_PERIOD:
             placing.setRot(placing.getRot() + 1);
             break;
-            //Grow and shrink the platform with + -
+         //Grow and shrink the platform with + -
          case GLFW_KEY_EQUAL:
             placing.stretch();
             break;
@@ -736,9 +697,11 @@ static void key_callback(GLFWwindow* window, int key, int scancode, int action, 
             break;
          case GLFW_KEY_1:
             if (!placeMode) {
-               placing = Platform(glm::vec3(lookAtVec.x, lookAtVec.y, mount.getZ(lookAtVec.y)), handles, platMod);
+               placing = Platform(lookAtVec, handles, platMod);
                placeMode = true;
             }
+            else
+               placeMode = false;
             break;
          case GLFW_KEY_ENTER:
             if (placeMode) {

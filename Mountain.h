@@ -21,7 +21,10 @@ class Mountain : public GameObject
       void draw();
       Mountain();
       Mountain(glm::vec3 pos, GLHandles hand, GameModel model);
-      static float getZ(float y);
+      static float testLeftDiagonal(glm::vec3 pos);
+      static float testRightDiagonal(glm::vec3 pos);
+      static float getZ(glm::vec3 pos);
+      static float getX(glm::vec3 pos);
       float rotation;
    private:
       void SetModel(glm::vec3 loc, glm::vec3 size, float rotation);
